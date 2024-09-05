@@ -38,6 +38,7 @@ This project involves analyzing sales data from a global superstore with branche
 *	With the year slicer, users can view sales trends over different periods, offering a temporal perspective on the business’s growth or decline.
 3.	Geographical Segmentation:
 *	The segmentation by country, region, and market allows for an in-depth understanding of performance in different geographic locations.
+  
 4.	Top City Sales Insight:
 *	By focusing on the top five cities, stakeholders can quickly identify key markets driving sales, helping inform decisions about resource allocation.
 5.	Shipping Mode Efficiency:
