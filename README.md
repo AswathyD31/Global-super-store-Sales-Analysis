@@ -21,10 +21,14 @@ This project involves analyzing sales data from a global superstore with branche
 
 ### Visuals and Reports
 
-**Donut Chart:** Displays the top five cities by sales, sales by region and market.  
+**Donut Chart:** Displays the top five cities by sales, sales by region and market.
+
 **Slicers:**  Provide filters for country, state, city and year, enabling stakeholders to explore data by specific dimensions.
+
 **Bar Charts:**  Show sales across different cities, states, and markets for easy comparison.
+
 **Donut Chart:** Illustrates the percentage breakdown of shipping modes (e.g., standard, expedited).
+
 **Maps:** Geographically display sales distribution to visualize market penetration across Countries.
 
 ### Advantages
