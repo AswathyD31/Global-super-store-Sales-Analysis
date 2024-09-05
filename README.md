@@ -27,27 +27,34 @@ This project involves analyzing sales data from a global superstore with branche
 **Maps:** Geographically display sales distribution to visualize market penetration across Countries.
 
 ### Advantages
-1.	Interactive Visuals:
+**1.	Interactive Visuals:**
 *	Power BI’s slicers and filters allow users to explore data interactively, making it easier to find insights without being constrained by static reports.
-2.	Dynamic Time Analysis:
+	
+**2.	Dynamic Time Analysis:**
 *	With the year slicer, users can view sales trends over different periods, offering a temporal perspective on the business’s growth or decline.
-3.	Geographical Segmentation:
+	
+**3.	Geographical Segmentation:**
 *	The segmentation by country, region, and market allows for an in-depth understanding of performance in different geographic locations.
   
-4.	Top City Sales Insight:
+**4.	Top City Sales Insight:**
 *	By focusing on the top five cities, stakeholders can quickly identify key markets driving sales, helping inform decisions about resource allocation.
-5.	Shipping Mode Efficiency:
+  
+**5.	Shipping Mode Efficiency:**
 *	The analysis of sales by shipping mode gives stakeholders insight into customer preferences and logistical efficiency, which can guide shipping strategy improvements.
 
 ### Limitations
 **1.	Data Quality Dependence:**
 *	The accuracy of the analysis relies heavily on the quality of the input data. Incomplete, inaccurate, or inconsistent data can affect the results of the analysis.
+	
 **2.	Limited Historical Context:**
 *	The year slicer allows analysis by year, but if the dataset does not include enough historical data, it may not provide a long-term trend analysis.
+	
 **3.	Geographical Focus:**
 *	While the report segments data by country, region, and market, the analysis may miss smaller, hyper-local trends within cities or states.
+	
 **4.	Static Top 5 Analysis:**
 *	The donut chart highlighting the top five cities is useful but static. If the stakeholders want to see more cities or different rankings, they need to adjust the filter or request additional visualizations.
+	
 **5.	Performance in Power BI:**
 *	For very large datasets, Power BI might experience performance issues, especially if complex filters and visuals are applied. Optimization might be required for real-time reporting.
 
