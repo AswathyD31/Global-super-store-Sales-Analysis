@@ -60,6 +60,9 @@ https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 **5.	Performance in Power BI:**
 *	For very large datasets, Power BI might experience performance issues, especially if complex filters and visuals are applied. Optimization might be required for real-time reporting.
 
+### Power BI Dashboard
+
+
 ### Conclusion
 This analysis provides a comprehensive view of the global superstore's sales data, offering detailed insights into geographical performance, shipping modes, and top markets. The interactive report empowers stakeholders to explore the data dynamically, making it an excellent tool for decision-making. However, it’s essential to maintain data quality and consider expanding the analysis for longer-term trends and deeper insights into smaller regions.
 
