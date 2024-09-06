@@ -2,6 +2,8 @@
 # Overview
 
 This project involves analyzing sales data from a global superstore with branches all over the world. The analysis focuses on cleaning the data, visualizing sales trends, and providing insights into shipping methods, sales by geographical regions, and top-performing cities. The analysis is done using Power BI to create interactive visualizations and reports that allow stakeholders to explore sales data dynamically.
+## Check out the presentation of the Global Superstore Sales Analysis Dashboard here⤵:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 
 # Objectives
 
