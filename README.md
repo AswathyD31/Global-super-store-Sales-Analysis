@@ -6,7 +6,7 @@ This project involves analyzing sales data from a global superstore with branche
 https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 
 # Objectives
-
+___
 ### 1.	Data Cleaning:
 * Remove duplicates and handle missing values.
 * Ensure correct data types for analysis (e.g., dates, numeric values). 
@@ -28,7 +28,8 @@ https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 **Donut Chart:** Illustrates the percentage breakdown of shipping modes (e.g., standard, expedited).
 **Maps:** Geographically display sales distribution to visualize market penetration across Countries.
 
-### Advantages
+## Advantages
+___
 **1.	Interactive Visuals:**
 *	Power BI’s slicers and filters allow users to explore data interactively, making it easier to find insights without being constrained by static reports.
 	
@@ -44,7 +45,8 @@ https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 **5.	Shipping Mode Efficiency:**
 *	The analysis of sales by shipping mode gives stakeholders insight into customer preferences and logistical efficiency, which can guide shipping strategy improvements.
 
-### Limitations
+## Limitations
+___
 **1.	Data Quality Dependence:**
 *	The accuracy of the analysis relies heavily on the quality of the input data. Incomplete, inaccurate, or inconsistent data can affect the results of the analysis.
 	
@@ -60,9 +62,10 @@ https://www.linkedin.com/feed/update/urn:li:ugcPost:7237739124407820288/
 **5.	Performance in Power BI:**
 *	For very large datasets, Power BI might experience performance issues, especially if complex filters and visuals are applied. Optimization might be required for real-time reporting.
 
-### Power BI Dashboard
+# Power BI Dashboard
+![image alt](https://github.com/AswathyD31/Global-super-store-Sales-Analysis/blob/ddfb417892341ef4e616ecd6216f29611f61262b/Power%20Bi%20Dashboard.JPG)
 
-
-### Conclusion
+# Conclusion
+___
 This analysis provides a comprehensive view of the global superstore's sales data, offering detailed insights into geographical performance, shipping modes, and top markets. The interactive report empowers stakeholders to explore the data dynamically, making it an excellent tool for decision-making. However, it’s essential to maintain data quality and consider expanding the analysis for longer-term trends and deeper insights into smaller regions.
 
